@@ -2,8 +2,7 @@
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-<img src="https://anneamadden.files.wordpress.com/2019/10/pumpkin_close_dark.jpeg" width="200" height="">
-<img src="https://anneamadden.files.wordpress.com/2019/10/img_2729.jpeg" width="200" height="">
+<img src="https://anneamadden.files.wordpress.com/2019/10/pumpkin_close_dark.jpeg" width="200" height=""> <img src="https://anneamadden.files.wordpress.com/2019/10/img_2729.jpeg" width="200" height="">
 
 
 
