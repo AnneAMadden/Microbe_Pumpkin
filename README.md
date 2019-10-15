@@ -5,7 +5,7 @@ Using some household supplies, a microbe-fuel cell kit, a pumpkin, and a supplem
 
 The electricity is produced by naturally occuring soil microorganisms (bacteria.) 
 
-Most instructions for the microbial power source are contained in the Magic Microbes MuddWatt kit instructions. 
+Most instructions for the microbial power source are contained in the Magical Microbes MuddWatt kit instructions. 
 
 The project takes less than a few hours to complete, the microbes need to grow for a few days to create enough power to create a slow flashing LED. The flashing rate will increase with microbial activity. 
 
