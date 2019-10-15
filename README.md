@@ -13,4 +13,4 @@ This energy source is renewable, relying on microbes that feed off of cardboard 
 
 The safety concerns are around sharp knives, and putting wires into a circuit board, so with assistance this is fun for the whole family.
 
-Warning: My cat tried to drink from the cathode and ate the first version of the paper roll tea light structure, so be forwarned. 
+Warning: My cat tried to drink from the cathode and ate the first version of the paper roll tea light structure, so maybe choose a different assistant. 
