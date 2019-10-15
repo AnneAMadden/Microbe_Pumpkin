@@ -1,7 +1,7 @@
 # Microbe_Pumpkin
 A Jack-o-lantern lit up with a soil microbe-powered tea light
 
-Using some household supplies, a microbe-fuel cell battery kit, a pumpkin, and a supplemental LED bulb create a flickering Jack-o-lantern.
+Using some household supplies, a microbe-fuel cell kit, a pumpkin, and a supplemental LED bulb create a flickering Jack-o-lantern.
 
 The electricity is produced by naturally occuring soil microorganisms (bacteria.) 
 
